@@ -1,0 +1,15 @@
+server:
+  port: 8085
+
+spring:
+  datasource:
+    courseappdatasource:
+      driver-class-name: org.postgresql.Driver
+      jdbcUrl: jdbc:postgresql://localhost:5432/postgres
+      username: postgres
+      password: 123654
+      schema: course
+  jpa:
+    database: POSTGRESQL
+    hibernate.ddl-auto: update
+    show-sql: true

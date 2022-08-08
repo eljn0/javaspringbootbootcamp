@@ -1,0 +1,10 @@
+az\course\model\Student.class
+az\course\service\StudentService.class
+az\course\CourseAppApplication.class
+az\course\dao\StudentDao.class
+az\course\config\DataSourceConfiguration.class
+az\course\service\StudentServiceImpl.class
+az\course\test\LoopTestMain.class
+az\course\test\CourseAppMain.class
+az\course\controller\StudentController.class
+az\course\dao\StudentDaoImpl.class

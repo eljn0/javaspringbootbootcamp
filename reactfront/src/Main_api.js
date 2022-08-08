@@ -1,0 +1,1 @@
+export const main_api = 'http://localhost:8085/student';
